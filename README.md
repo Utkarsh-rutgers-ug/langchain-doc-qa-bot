@@ -40,22 +40,22 @@ In today’s data-driven world, extracting actionable insights from large docume
    ```bash
    git clone https://github.com/your-username/langchain-doc-qa-bot.git
    cd langchain-doc-qa-bot
-2. **Create a .env
+2. **Create a .env**
    ```bash
    cp .env.example .env
     # Then edit .env with your keys:
     # OPENAI_API_KEY=sk-your-openai-key (if you have one)
     # OPENAI_API_BASE=http://localhost:11434/v1   # for Ollama only
-3. **Install dependencies
+3. **Install dependencies**
    ```bash
    pip install -r requirements.txt
-4. **(Optional) Pull Ollama model
+4. **(Optional) Pull Ollama model**
    ```bash
    ollama pull mistral:latest  # or llama2, vicuna, etc.
 5. **Run the app
    ```bash
    streamlit run maincode.py
-6. **Open http://localhost:8501 in your browser.
+6. **Open http://localhost:8501 in your browser.**
 
 ---
 
