@@ -1,8 +1,7 @@
 # langchain-doc-qa-bot
 
-![Project Logo](assets/logo.png)
 
-## 🚀 Overview
+## Overview
 
 **langchain-doc-qa-bot** is a powerful, user-friendly application that allows users to upload any plain text document and interactively ask questions about its content. Built with cutting-edge technologies—LangChain for orchestration, FAISS for vector storage, HuggingFace or Ollama for local inference, and Streamlit for a sleek web interface—this project showcases your ability to integrate multiple AI/ML tools into a cohesive product.
 
@@ -14,7 +13,7 @@
 
 ---
 
-## 🔧 Features
+## Features
 
 - **File Upload:** Seamlessly upload `.txt` documents via drag-and-drop.  
 - **Document Chunking:** Automatic text splitting with overlap to optimize for LLM token limits.  
@@ -25,7 +24,7 @@
 
 ---
 
-## 💡 Why It Matters
+## Why It Matters
 
 In today’s data-driven world, extracting actionable insights from large documents is crucial. This bot illustrates:
 
@@ -35,7 +34,7 @@ In today’s data-driven world, extracting actionable insights from large docume
 
 ---
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 1. **Clone the repo**  
    ```bash
@@ -45,7 +44,7 @@ In today’s data-driven world, extracting actionable insights from large docume
    ```bash
    cp .env.example .env
     # Then edit .env with your keys:
-    # OPENAI_API_KEY=sk-your-openai-key
+    # OPENAI_API_KEY=sk-your-openai-key (if you have one)
     # OPENAI_API_BASE=http://localhost:11434/v1   # for Ollama only
 3. **Install dependencies
    ```bash
