@@ -52,7 +52,7 @@ In today’s data-driven world, extracting actionable insights from large docume
 4. **(Optional) Pull Ollama model**
    ```bash
    ollama pull mistral:latest  # or llama2, vicuna, etc.
-5. **Run the app
+5. **Run the app**
    ```bash
    streamlit run maincode.py
 6. **Open http://localhost:8501 in your browser.**
