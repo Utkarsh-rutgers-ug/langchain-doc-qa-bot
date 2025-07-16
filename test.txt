@@ -1,0 +1,91 @@
+The Salt Cathedral of Zipaquirá
+Located: Zipaquirá, Colombia
+Originally constructed in the tunnels of a 19th-century salt mine, the Salt Cathedral was inaugurated as a place of worship in 1954. In 1995, concerns over structural integrity forced its closure; it was rebuilt deeper within the mine and reopened in 1997. The cathedral’s stations of the cross are carved straight into the halite walls, and ambient lighting highlights salt sculptures of biblical scenes. At over 180 meters underground, the constant temperature is 17 °C (63 °F).
+
+The Voynich Manuscript
+Discovered: 1912 at Villa Mondragone, Italy
+Content: ~240 folios of undeciphered text and botanical drawings
+Carbon-14 dating places its creation between 1404–1438. The manuscript features illustrations of unknown plants, zodiac symbols, and what appears to be alchemical apparatus. No one has definitively cracked its cipher or language. Some theories propose it’s a hoax, while others suggest it encodes lost medieval herbal knowledge.
+
+Lake Baikal
+Location: Siberia, Russia (Irkutsk Oblast and Buryatia)
+Depth: Max 1,642 meters (5,387 ft); Volume: 23,600 km³ (5,662 mi³)
+Formed 25–30 million years ago, Baikal is the world’s oldest and deepest freshwater lake. It contains roughly 20% of the planet’s unfrozen surface freshwater. Over 1,700 species of plants and animals live there, two-thirds found nowhere else (e.g., the Nerpa seal and golomyanka fish).
+
+The Cromford Canal
+Opened: 1794; Closed: 1944
+Location: Derbyshire, England
+Built by William Jessop, this 14-mile canal transported limestone, coal, and iron for the Industrial Revolution. It used inventive iron aqueducts (including Etherow and Leawood), and the Butterley Tunnel (2,966 yd long) was one of the era’s longest. After abandonment, significant stretches have been restored by heritage groups, but large sections remain infilled.
+
+The Giant’s Causeway
+Location: County Antrim, Northern Ireland
+Features: ~40,000 interlocking basalt columns
+Formed by volcanic activity 50–60 million years ago, the columns are mostly hexagonal and rise up to 12 m tall. Local legend attributes the formation to the giant Fionn mac Cumhaill building a bridge to Scotland. The site was declared a UNESCO World Heritage Site in 1986 and contains a natural amphitheater known as the “Stage.”
+
+The Voyages of Zheng He
+Era: Early 15th century (1405–1433)
+Admiral Zheng He led seven expeditions from China under the Yongle Emperor, commanding fleets of “treasure ships” up to 137 m long and 50 m wide. They reached as far as the east coast of Africa, visiting modern-day Kenya, Somalia, and Tanzania. The expeditions carried silk, porcelain, and silver, and returned with exotic gifts like zebras, giraffes, and African ivory.
+
+Octagon House of Washington, D.C.
+Built: 1802–1807
+Location: Near Lafayette Square, NW
+Designed by William Thornton, the first architect of the U.S. Capitol, this eight-sided Federal-style residence hosted President James Madison after the White House burning in 1814. It’s one of only two octagonal buildings on the U.S. National Register of Historic Places. Restored in the 1950s, it’s now a museum with period furnishings and a collection of early American decorative arts.
+
+Tsingy de Bemaraha
+Location: Madagascar
+Designation: UNESCO World Heritage (1990)
+The “Tsingy” are razor-sharp limestone pinnacles reaching 20–30 m high, forming labyrinthine canyons. Erosion over 200 million years created this surreal karst landscape. Home to endangered lemur species (Decken’s sifaka), endemic birds, and over 1,000 plant species—many restricted to this reserve. Access is via suspension bridges and narrow boardwalks high above the ground.
+
+Rutgers University
+Founded: November 10, 1766
+Location: New Brunswick, New Jersey 08854
+Originally chartered as Queen’s College, Rutgers is the eighth‐oldest institution of higher learning in the United States. It was renamed in 1825 in honor of Colonel Henry Rutgers, a Revolutionary War hero and philanthropist. Today, Rutgers enrolls over 70,000 students across three campuses (New Brunswick, Newark, Camden), offering more than 150 undergraduate majors and numerous graduate programs. Its school colors are scarlet and black, and its mascot is the Scarlet Knight.
+
+Cornell University
+Founded: April 27, 1865
+Location: Ithaca, New York 14850
+Cornell is one of the nine private universities in the Ivy League and the only one chartered after the American Revolution. Senator Ezra Cornell and Andrew Dickson White founded it “to any person … any study.” Cornell’s main campus in the Finger Lakes Region encompasses historic Gothic and modern buildings, and boasts top programs in Hotel Administration, Engineering, and Agriculture. The university operates two satellite medical campuses in New York City and Doha, Qatar.
+
+Harvard University
+Founded: September 8, 1636
+Location: Cambridge and Boston, Massachusetts
+Harvard is the oldest institution of higher education in the United States. Established by the Massachusetts Bay Colony, it was named after its first benefactor, clergyman John Harvard. Harvard University comprises 12 degree‐granting Schools—including Harvard College (undergraduate), Business, Law, Medicine, and Divinity—and a world‐leading library system. Its crimson color and the motto “Veritas” (Truth) are renowned worldwide. The Harvard Yard is the historical heart of campus.
+
+Portsmouth
+Founded: April 2, 1683
+Location: Portsmouth, New Hampshire 03801
+Portsmouth is one of the oldest cities in New England, situated on the Piscataqua River near the Atlantic Ocean. Established by John Mason under a royal charter, it played a significant role in maritime trade and shipbuilding. Its historic downtown includes the 17th- and 18th-century Strawbery Banke neighborhood, Prescott Park, and the USS Albacore Museum. Portsmouth hosts annual festivals—Market Square Day and the Prescott Park Arts Festival—celebrating its colonial heritage.
+
+
+ALGEBRAIC IDENTITIES
+1. Square of a sum:  \((a + b)^2 = a^2 + 2ab + b^2\)
+2. Difference of squares: \((a - b)(a + b) = a^2 - b^2\)
+3. Cube of a sum:  \((a + b)^3 = a^3 + 3a^2b + 3ab^2 + b^3\)
+4. Sum of cubes:  \(a^3 + b^3 = (a + b)(a^2 - ab + b^2)\)
+5. Difference of cubes: \(a^3 - b^3 = (a - b)(a^2 + ab + b^2)\)
+
+
+CALCULUS RULES
+1. Power rule: \(\tfrac{d}{dx}[x^n] = nx^{n-1}\) for any real \(n\).
+2. Product rule: \(\tfrac{d}{dx}[u\cdot v] = u'\,v + u\,v'\).
+3. Quotient rule: \(\tfrac{d}{dx}\bigl[\tfrac{u}{v}\bigr] = \tfrac{u'\,v - u\,v'}{v^2}\).
+4. Chain rule: \(\tfrac{d}{dx}[f(g(x))] = f'(g(x))\cdot g'(x)\).
+5. Fundamental Theorem of Calculus, Part 1:
+   If \(F\) is an antiderivative of \(f\) on \([a,b]\),
+   then \(\int_a^b f(x)\,dx = F(b) - F(a)\).
+
+
+GEOMETRY & TRIGONOMETRY
+1. Pythagorean theorem: In a right triangle, \(a^2 + b^2 = c^2\).
+2. Area of a triangle: \(\tfrac12 b\cdot h\).
+3. Area of a circle: \(\pi r^2\).
+4. Circumference of a circle: \(2\pi r\).
+5. Sine rule: \(\tfrac{a}{\sin A}=\tfrac{b}{\sin B}=\tfrac{c}{\sin C}\).
+6. Cosine rule: \(c^2 = a^2 + b^2 - 2ab\cos C\).
+
+
+NUMBER THEORY
+1. Prime definition: A natural number >1 with no positive divisors other than 1 and itself.
+2. Fundamental Theorem of Arithmetic: Every integer >1 factors uniquely into primes.
+3. Euclid’s proof of infinitely many primes: Assume finitely many, multiply them all +1 leads to contradiction.
+4. Euler’s totient theorem: If \(\gcd(a,n)=1\), then \(a^{\phi(n)}\equiv1\pmod n\).
